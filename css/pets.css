@@ -1,0 +1,19 @@
+h1{
+  color: blue;
+  font-size: 200px;
+  font-style: bold;
+}
+h2{
+  color: red;
+  font-style: italic;
+}
+h3{
+  color: pink;
+  font-size: 100px;
+}
+p{
+  font-family: Times;
+  font-size: 50px;
+  line-height:40px;
+  background-color: yellow;
+}
